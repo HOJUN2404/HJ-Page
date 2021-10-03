@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/HJ-Page/static/css/main.a7df9c85.chunk.css",
+    "main.js": "/HJ-Page/static/js/main.f2dd9b26.chunk.js",
+    "main.js.map": "/HJ-Page/static/js/main.f2dd9b26.chunk.js.map",
+    "runtime-main.js": "/HJ-Page/static/js/runtime-main.dfd03b80.js",
+    "runtime-main.js.map": "/HJ-Page/static/js/runtime-main.dfd03b80.js.map",
+    "static/css/2.cc615259.chunk.css": "/HJ-Page/static/css/2.cc615259.chunk.css",
+    "static/js/2.e029192b.chunk.js": "/HJ-Page/static/js/2.e029192b.chunk.js",
+    "static/js/2.e029192b.chunk.js.map": "/HJ-Page/static/js/2.e029192b.chunk.js.map",
+    "static/js/3.ad29aab3.chunk.js": "/HJ-Page/static/js/3.ad29aab3.chunk.js",
+    "static/js/3.ad29aab3.chunk.js.map": "/HJ-Page/static/js/3.ad29aab3.chunk.js.map",
+    "index.html": "/HJ-Page/index.html",
+    "static/css/2.cc615259.chunk.css.map": "/HJ-Page/static/css/2.cc615259.chunk.css.map",
+    "static/css/main.a7df9c85.chunk.css.map": "/HJ-Page/static/css/main.a7df9c85.chunk.css.map",
+    "static/js/2.e029192b.chunk.js.LICENSE.txt": "/HJ-Page/static/js/2.e029192b.chunk.js.LICENSE.txt",
+    "static/media/1.9d69f585.jpg": "/HJ-Page/static/media/1.9d69f585.jpg",
+    "static/media/111.41d3e5f3.png": "/HJ-Page/static/media/111.41d3e5f3.png",
+    "static/media/Home.css": "/HJ-Page/static/media/22.89c91169.jpeg",
+    "static/media/222.57b7c69b.png": "/HJ-Page/static/media/222.57b7c69b.png",
+    "static/media/333.c13028d4.png": "/HJ-Page/static/media/333.c13028d4.png",
+    "static/media/444.029f3fbd.png": "/HJ-Page/static/media/444.029f3fbd.png",
+    "static/media/555.56f9d5ff.png": "/HJ-Page/static/media/555.56f9d5ff.png",
+    "static/media/hjzz.bcd05ff4.png": "/HJ-Page/static/media/hjzz.bcd05ff4.png",
+    "static/media/imoge1.eba3823b.png": "/HJ-Page/static/media/imoge1.eba3823b.png",
+    "static/media/its1.1b77cb33.png": "/HJ-Page/static/media/its1.1b77cb33.png",
+    "static/media/its2.e110803b.png": "/HJ-Page/static/media/its2.e110803b.png",
+    "static/media/its3.73328d95.png": "/HJ-Page/static/media/its3.73328d95.png",
+    "static/media/its4.9ff2c93b.png": "/HJ-Page/static/media/its4.9ff2c93b.png",
+    "static/media/its5.d1a4f855.png": "/HJ-Page/static/media/its5.d1a4f855.png",
+    "static/media/its6.526ba6b9.png": "/HJ-Page/static/media/its6.526ba6b9.png",
+    "static/media/meme.a166b8d8.png": "/HJ-Page/static/media/meme.a166b8d8.png",
+    "static/media/slick-theme.css": "/HJ-Page/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfd03b80.js",
+    "static/css/2.cc615259.chunk.css",
+    "static/js/2.e029192b.chunk.js",
+    "static/css/main.a7df9c85.chunk.css",
+    "static/js/main.f2dd9b26.chunk.js"
+  ]
+}
