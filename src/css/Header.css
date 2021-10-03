@@ -1,0 +1,38 @@
+.mainImg {
+  height: 40px;
+  width: 80px;
+}
+
+.mainTitle {
+  font-weight: 700;
+}
+
+.nav {
+  background-color: #fff;
+  font-weight: bold;
+}
+@media screen and (min-width: 1001px) {
+  .nav .navbar-collapse {
+    left: 40%;
+    position: absolute;
+  }
+}
+@media screen and (min-width: 769px) and (max-width: 1000px) {
+  .nav .navbar-collapse {
+    left: 30%;
+    position: absolute;
+  }
+}
+@media screen and (min-width: 1201px) {
+  .nav .navbar-collapse .navbar-ul {
+    width: 600px;
+  }
+}
+@media screen and (min-width: 769px) and (max-width: 1200px) {
+  .nav .navbar-collapse .navbar-ul {
+    width: 500px;
+  }
+}
+.nav .navbar-collapse .navbar-ul .navItem {
+  width: 100%;
+}
