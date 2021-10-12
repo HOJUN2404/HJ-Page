@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HJ-Page/static/css/main.a7df9c85.chunk.css",
-    "main.js": "/HJ-Page/static/js/main.f2dd9b26.chunk.js",
-    "main.js.map": "/HJ-Page/static/js/main.f2dd9b26.chunk.js.map",
+    "main.js": "/HJ-Page/static/js/main.200f96d1.chunk.js",
+    "main.js.map": "/HJ-Page/static/js/main.200f96d1.chunk.js.map",
     "runtime-main.js": "/HJ-Page/static/js/runtime-main.dfd03b80.js",
     "runtime-main.js.map": "/HJ-Page/static/js/runtime-main.dfd03b80.js.map",
     "static/css/2.cc615259.chunk.css": "/HJ-Page/static/css/2.cc615259.chunk.css",
@@ -37,6 +37,6 @@
     "static/css/2.cc615259.chunk.css",
     "static/js/2.e029192b.chunk.js",
     "static/css/main.a7df9c85.chunk.css",
-    "static/js/main.f2dd9b26.chunk.js"
+    "static/js/main.200f96d1.chunk.js"
   ]
 }
